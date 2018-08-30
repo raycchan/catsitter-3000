@@ -1,2 +1,1 @@
-# can-opener-3000
-Disruptive Blockchain Innovation (Series J)
+# Can Opener 3000
