@@ -1,12 +1,37 @@
 # Catsitter 3000
 
-I love our cat, but sometimes when we're gone for the weekend it's annoying to bribe friends to come over and literally just open a can of wet food for the little brat. Anything on the market either [has been in product development for 2 years](https://pawbot.com/), [have to buy exclusive cans and is invite only](https://www.catzenpup.com/), or require [pre-opened wet food](https://www.amazon.com/TDYNASTY-DESIGN-Automatic-Feeder-Dogs/dp/B01LRMBEN6/) which freaks me out.
+I love our cat [Mochi](https://www.instagram.com/mochiputshisheadonthings/), but sometimes when we're gone for the weekend it's annoying to bribe friends to come over and literally just open a can of wet food for the little brat. Anything on the market either [has been in product development for 2 years](https://pawbot.com/), [have to buy exclusive cans and is invite only](https://www.catzenpup.com/), or require [pre-opened wet food](https://www.amazon.com/TDYNASTY-DESIGN-Automatic-Feeder-Dogs/dp/B01LRMBEN6/) which freaks me out.
 
 Enter Catsitter 3000! 
 
-<img src="https://user-images.githubusercontent.com/1938145/44883438-1f445580-ac85-11e8-94b9-02270e0ac90d.jpg" width="700">
+TBD images:
+<Final image>
+<Final image back>
+<Final video>
+<Mochi Cam>
+<Mochi Cam admin page>
+  
+Hardware:
+<ul>
+  <li>Raspberry Pi 3 - $30</li>
+  <li>2 x DC Motors - $26</li>
+  <li>2 x Motor Brackets - $14</li>
+  <li>Motor Driver - $7</li>
+  <li>2 x Bar Clamps - $14</li>
+  <li>Camera Module - $25</li>
+  <li>Long camera ribbon - $6 (splurge!)</li>
+  <li><b>Total: $122</b></li>
+</ul>
 
-# Iterations:
+Software:
+<ul>
+  <li>Mochicam powered by a simple Rails app on Heroku</li>
+  <li>Raspyberry Pi uses remot3.it to keep HTTP Port open, listening for API calls</li>
+  <li>Flask app on Raspberry Pi runs a script to take pictures and uploads to S3</li>
+  <li>Password protected interface used for motor setup and trigger feeding</li>
+</ul>
+
+# Iterations
 
 #### Version 1 - In a box
 Drilled a hole in a baseball display box, this only did one pull motion and I forgot that cans need to be popped backwards first.
@@ -26,5 +51,15 @@ Finally landed on this weird shape, the $25 camera I bought off Amazon SHOCKINGL
 
 <img src="https://user-images.githubusercontent.com/1938145/45007839-9f442580-afcd-11e8-80c7-3b94a90958d9.jpg" width="400">
 <img src="https://user-images.githubusercontent.com/1938145/45007840-9fdcbc00-afcd-11e8-97af-da56c9afcdd5.jpg" width="400">
+
+# Learnings
+
+<ul>
+  <li>Hardware is 27 times harder than software, anything and everything will go wrong. You'll spend 3 hours debugging a loose wire</li>
+  <li>Hardware is extremely rewarding, you're manipulating 5V jolts to do a physical thing</li>
+  <li>Sketch out exactly how everything will work, keep building the cheapest MVPs</li>
+  <li>You will fail many many times but each time is an opportunity to take what's working and iterate (I know, :corn:)</li>
+  <li>Cats get really annoyed when you tease them with half opened cans during testing</li>
+</ul>
 
 <img src="https://i0.wp.com/techpatio.com/wp-content/uploads/2018/02/instagram-logo.jpg" width="25"> &nbsp;&nbsp; [Follow Mochi putting his head on things](https://www.instagram.com/mochiputshisheadonthings/)
