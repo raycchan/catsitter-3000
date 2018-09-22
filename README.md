@@ -56,7 +56,7 @@ Finally landed on this weird shape, the $25 camera I bought off Amazon SHOCKINGL
 
 <ul>
   <li>Hardware is 27 times harder than software, anything and everything will go wrong. You'll spend 3 hours debugging a loose wire but is extremely rewarding when you get it</li>
-  <li>Sketch out exactly how everything will work. You will fail many many times but each time is an opportunity to take what's working and iterate (I know, :corn:)</li>
+  <li>Sketch out exactly how everything will work. You will fail many many times but each time is an opportunity to take what's working and iterate</li>
   <li>Spend the extra few bucks and get a better part, $5 discount for a knockoff version from China isn't worth it</li>
   <li>Cats get really annoyed when you tease them with half opened cans during testing</li>
 </ul>
