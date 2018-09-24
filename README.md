@@ -2,16 +2,9 @@
 
 I love our cat [Mochi](https://www.instagram.com/mochiputshisheadonthings/), but sometimes when we're gone for the weekend it's annoying to bribe friends to come over and literally just open a can of wet food for the little brat. Anything on the market either [has been in product development for 2 years](https://pawbot.com/), [have to buy exclusive cans and is invite only](https://www.catzenpup.com/), or require [pre-opened wet food](https://www.amazon.com/TDYNASTY-DESIGN-Automatic-Feeder-Dogs/dp/B01LRMBEN6/) which freaks me out.
 
-Enter Catsitter 3000! 
-
-TBD images:
-<Final image>
-<Final image back>
-<Final video>
-<Mochi Cam>
-<Mochi Cam admin page>
+Enter Catsitter 3000! You press a button on a webpage when you're away for the weekend, and it will open a can of wet food, taking pictures to verify that your favorite feline has been properly fed.
   
-Hardware:
+#### Hardware:
 <ul>
   <li>Raspberry Pi 3 - $30</li>
   <li>2 x DC Motors - $26</li>
@@ -23,13 +16,28 @@ Hardware:
   <li><b>Total: $122</b></li>
 </ul>
 
-Software:
+<img src="https://user-images.githubusercontent.com/1938145/45935501-ff4d3c80-bf79-11e8-9226-d9b91c369984.jpg" width = "400"><br>
+<img src="https://user-images.githubusercontent.com/1938145/45935474-c7de9000-bf79-11e8-9be4-c582b336e4c1.jpg" width = "600">
+<img src="https://user-images.githubusercontent.com/1938145/45935400-0c1d6080-bf79-11e8-85c8-710aeb2784b1.jpg" width = "400">
+
+#### Software:
 <ul>
   <li>Mochicam powered by a simple Rails app on Heroku</li>
   <li>Raspyberry Pi uses remot3.it to keep HTTP Port open, listening for API calls</li>
   <li>Flask app on Raspberry Pi runs a script to take pictures and uploads to S3</li>
   <li>Password protected interface used for motor setup and trigger feeding</li>
 </ul>
+
+<img src="https://user-images.githubusercontent.com/1938145/45935402-0c1d6080-bf79-11e8-9f39-668aa6ed800d.png" width="400">
+<img src="https://user-images.githubusercontent.com/1938145/45935403-0c1d6080-bf79-11e8-8a03-590932cca8c6.png" width="400">
+<img src="https://user-images.githubusercontent.com/1938145/45935568-97e3bc80-bf7a-11e8-8813-cbf50fb636c8.png" width="400">
+
+#### In Action:
+[![Catfeeder V3](https://user-images.githubusercontent.com/1938145/45935958-ff9c0680-bf7e-11e8-8009-f1e243b4bfb7.png)](https://youtu.be/ParOgNfIK5U)
+
+#### What's next?
+Watch out for a V5! This needs improvement since it's a little pricey and also gets food all on his head 😅 
+<img src="https://user-images.githubusercontent.com/1938145/45935401-0c1d6080-bf79-11e8-8209-c57514320b7e.jpg" width="300">
 
 # Iterations
 
@@ -51,14 +59,5 @@ Finally landed on this weird shape, the $25 camera I bought off Amazon SHOCKINGL
 
 <img src="https://user-images.githubusercontent.com/1938145/45007839-9f442580-afcd-11e8-80c7-3b94a90958d9.jpg" width="400">
 <img src="https://user-images.githubusercontent.com/1938145/45007840-9fdcbc00-afcd-11e8-97af-da56c9afcdd5.jpg" width="400">
-
-# Learnings
-
-<ul>
-  <li>Hardware is 27 times harder than software, anything and everything will go wrong. You'll spend 3 hours debugging a loose wire but is extremely rewarding when you get it</li>
-  <li>Sketch out exactly how everything will work. You will fail many many times but each time is an opportunity to take what's working and iterate</li>
-  <li>Spend the extra few bucks and get a better part, $5 discount for a knockoff version from China isn't worth it</li>
-  <li>Cats get really annoyed when you tease them with half opened cans during testing</li>
-</ul>
 
 <img src="https://i0.wp.com/techpatio.com/wp-content/uploads/2018/02/instagram-logo.jpg" width="25"> &nbsp;&nbsp; [Follow Mochi putting his head on things](https://www.instagram.com/mochiputshisheadonthings/)
