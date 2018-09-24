@@ -37,6 +37,7 @@ Enter Catsitter 3000! You press a button on a webpage when you're away for the w
 
 #### What's next?
 Watch out for a V5! This needs improvement since it's a little pricey and also gets food all on his head 😅 
+<br><br>
 <img src="https://user-images.githubusercontent.com/1938145/45935401-0c1d6080-bf79-11e8-8209-c57514320b7e.jpg" width="300">
 
 # Iterations
