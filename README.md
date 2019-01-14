@@ -6,19 +6,18 @@ Enter Catsitter 3000! You press a button on a webpage when you're away for the w
   
 #### Hardware:
 <ul>
+  <li>Can Opener - $20</li>
   <li>Raspberry Pi 3 - $30</li>
-  <li>2 x DC Motors - $26</li>
-  <li>2 x Motor Brackets - $14</li>
+  <li>DC Motor - $13</li>
+  <li>Motor Bracket - $7</li>
   <li>Motor Driver - $7</li>
-  <li>2 x Bar Clamps - $14</li>
+  <li>Servo - $3</li>
   <li>Camera Module - $25</li>
-  <li>Long camera ribbon - $6 (splurge!)</li>
-  <li><b>Total: $122</b></li>
+  <li>Hot Glue Gun - $0 (Already had)</li>
+  <li><b>Total: $105</b></li>
 </ul>
 
-<img src="https://user-images.githubusercontent.com/1938145/45935501-ff4d3c80-bf79-11e8-9226-d9b91c369984.jpg" width = "400"><br>
-<img src="https://user-images.githubusercontent.com/1938145/45935474-c7de9000-bf79-11e8-9be4-c582b336e4c1.jpg" width = "600">
-<img src="https://user-images.githubusercontent.com/1938145/45935400-0c1d6080-bf79-11e8-85c8-710aeb2784b1.jpg" width = "400">
+<img src="https://user-images.githubusercontent.com/1938145/51092460-97f40c00-1765-11e9-9da0-187ae7bf109e.jpg" width="400">
 
 #### Software:
 <ul>
@@ -28,37 +27,44 @@ Enter Catsitter 3000! You press a button on a webpage when you're away for the w
   <li>Password protected interface used for motor setup and trigger feeding</li>
 </ul>
 
-<img src="https://user-images.githubusercontent.com/1938145/45935402-0c1d6080-bf79-11e8-9f39-668aa6ed800d.png" width="400">
-<img src="https://user-images.githubusercontent.com/1938145/45935403-0c1d6080-bf79-11e8-8a03-590932cca8c6.png" width="400">
-<img src="https://user-images.githubusercontent.com/1938145/45935568-97e3bc80-bf7a-11e8-8813-cbf50fb636c8.png" width="400">
+<img src="https://user-images.githubusercontent.com/1938145/51092136-0a62ed00-1762-11e9-89c0-b69915b3e5b1.png" width="400">
+<img src="https://user-images.githubusercontent.com/1938145/51092137-0a62ed00-1762-11e9-9255-455d11564dd0.png" width="400">
+<img src="https://user-images.githubusercontent.com/1938145/51092513-2072ac80-1766-11e9-9dfb-040f930f2dd2.png" width="400">
 
 #### In Action:
-[![Catfeeder V3](https://user-images.githubusercontent.com/1938145/45935958-ff9c0680-bf7e-11e8-8009-f1e243b4bfb7.png)](https://youtu.be/ParOgNfIK5U)
-
+<a href="https://youtu.be/W7FxJTYr2lE">
+  <img src="https://user-images.githubusercontent.com/1938145/51092287-83af0f80-1763-11e9-9bfe-01d34b14c131.png" width="600"> </a>
+  
 #### What's next?
-Watch out for a V5! This needs improvement since it's a little pricey and also gets food all on his head 😅 
-<br><br>
-<img src="https://user-images.githubusercontent.com/1938145/45935401-0c1d6080-bf79-11e8-8209-c57514320b7e.jpg" width="300">
+Multi-can loading!
 
 # Iterations
 
-#### Version 1 - In a box
-Drilled a hole in a baseball display box, this only did one pull motion and I forgot that cans need to be popped backwards first.
+#### Version 4
+First working version! But only did 40% of the time. 
+Total Cost: $122
+
+<img src="https://user-images.githubusercontent.com/1938145/45935501-ff4d3c80-bf79-11e8-9226-d9b91c369984.jpg" width = "400"><br>
+<img src="https://user-images.githubusercontent.com/1938145/45935474-c7de9000-bf79-11e8-9be4-c582b336e4c1.jpg" width = "600">
+<img src="https://user-images.githubusercontent.com/1938145/45935400-0c1d6080-bf79-11e8-85c8-710aeb2784b1.jpg" width = "400">
+
+#### Version 3
+Improved on motor placement, and added a camera. But the $25 camera I bought off Amazon SHOCKINGLY didn't work well, and the blue gear mostly failed. 
+
+<img src="https://user-images.githubusercontent.com/1938145/45007839-9f442580-afcd-11e8-80c7-3b94a90958d9.jpg" width="400">
+<img src="https://user-images.githubusercontent.com/1938145/45007840-9fdcbc00-afcd-11e8-97af-da56c9afcdd5.jpg" width="400">
+
+#### Version 2
+First proof of concept with 2 motors and just gluing wood.
+
+<img src="https://user-images.githubusercontent.com/1938145/45007675-eaaa0400-afcc-11e8-947d-351f5ffd4a74.jpg" width="400">
+
+#### Version 1
+Drilled a hole in a baseball display box, forgot that pull-tabs required a two-fold action.
 
 <img src="https://user-images.githubusercontent.com/1938145/45007267-09a79680-afcb-11e8-8b89-be13ca6164a8.jpg" width="400">
 <img src="https://user-images.githubusercontent.com/1938145/45007302-32c82700-afcb-11e8-90cf-dcb636caf0c1.jpg" width="400">
 <img src="https://user-images.githubusercontent.com/1938145/45007266-09a79680-afcb-11e8-89e1-46b1b55a07e8.jpg" width="400">
 <img src="https://user-images.githubusercontent.com/1938145/45007265-09a79680-afcb-11e8-9799-668b35808517.jpg" width="400">
-
-#### Version 2 - Dual action
-Now that I knew I needed 2 motors, I upgraded but the lid didn't even budge because of the angles. Proof of concept wood works though :+1:
-
-<img src="https://user-images.githubusercontent.com/1938145/45007675-eaaa0400-afcc-11e8-947d-351f5ffd4a74.jpg" width="400">
-
-#### Version 3 - More wood
-Finally landed on this weird shape, the $25 camera I bought off Amazon SHOCKINGLY didn't work well, and the blue gear mostly failed
-
-<img src="https://user-images.githubusercontent.com/1938145/45007839-9f442580-afcd-11e8-80c7-3b94a90958d9.jpg" width="400">
-<img src="https://user-images.githubusercontent.com/1938145/45007840-9fdcbc00-afcd-11e8-97af-da56c9afcdd5.jpg" width="400">
 
 <img src="https://i0.wp.com/techpatio.com/wp-content/uploads/2018/02/instagram-logo.jpg" width="25"> &nbsp;&nbsp; [Follow Mochi putting his head on things](https://www.instagram.com/mochiputshisheadonthings/)
