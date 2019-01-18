@@ -24,7 +24,7 @@ Enter Catsitter 3000! You press a button on a webpage when you're away for the w
   <li>Mochicam powered by a simple Rails app on Heroku</li>
   <li>Raspyberry Pi uses remot3.it to keep HTTP Port open, listening for API calls</li>
   <li>Flask app on Raspberry Pi runs a script to take pictures and uploads to S3</li>
-  <li>Password protected interface used for motor setup and trigger feeding</li>
+  <li>Password protected interface used to check status and trigger feeding</li>
 </ul>
 
 <img src="https://user-images.githubusercontent.com/1938145/51092136-0a62ed00-1762-11e9-89c0-b69915b3e5b1.png" width="400">
