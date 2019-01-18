@@ -1,6 +1,6 @@
 # Catsitter 3000
 
-I love our cat [Mochi](https://www.instagram.com/mochiputshisheadonthings/), but sometimes when we're gone for the weekend it's annoying to bribe friends to come over and literally just open a can of wet food for the little brat. Anything on the market either [has been in product development for 2 years](https://pawbot.com/), [have to buy exclusive cans and is invite only](https://www.catzenpup.com/), or require [pre-opened wet food](https://www.amazon.com/TDYNASTY-DESIGN-Automatic-Feeder-Dogs/dp/B01LRMBEN6/) which freaks me out.
+I love our cat [Mochi](https://www.instagram.com/mochiputshisheadonthings/), but sometimes when we're gone for the weekend it's annoying to bribe friends to come over and literally just open a can of wet food for the little brat. Anything on the market either [has been in product development for 2 years](https://pawbot.com/), [have to buy exclusive cans and is invite only](https://www.catzenpup.com/), or requires [pre-opened wet food](https://www.amazon.com/TDYNASTY-DESIGN-Automatic-Feeder-Dogs/dp/B01LRMBEN6/) which freaks me out.
 
 Enter Catsitter 3000! You press a button on a webpage when you're away for the weekend, and it will open a can of wet food, taking pictures to verify that your favorite feline has been properly fed.
   
