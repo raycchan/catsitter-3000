@@ -49,9 +49,8 @@ Total Cost: $122
 <img src="https://user-images.githubusercontent.com/1938145/45935400-0c1d6080-bf79-11e8-85c8-710aeb2784b1.jpg" width = "400">
 
 #### Version 3
-Improved on motor placement, and added a camera. But the $25 camera I bought off Amazon SHOCKINGLY didn't work well, and the blue gear mostly failed. 
+Improved on motor placement and added a camera, but it was $25 off of Amazon and SHOCKINGLY didn't work well.
 
-<img src="https://user-images.githubusercontent.com/1938145/45007839-9f442580-afcd-11e8-80c7-3b94a90958d9.jpg" width="400">
 <img src="https://user-images.githubusercontent.com/1938145/45007840-9fdcbc00-afcd-11e8-97af-da56c9afcdd5.jpg" width="400">
 
 #### Version 2
@@ -62,9 +61,7 @@ First proof of concept with 2 motors and just gluing wood.
 #### Version 1
 Drilled a hole in a baseball display box, forgot that pull-tabs required a two-fold action.
 
-<img src="https://user-images.githubusercontent.com/1938145/45007267-09a79680-afcb-11e8-8b89-be13ca6164a8.jpg" width="400">
 <img src="https://user-images.githubusercontent.com/1938145/45007302-32c82700-afcb-11e8-90cf-dcb636caf0c1.jpg" width="400">
-<img src="https://user-images.githubusercontent.com/1938145/45007266-09a79680-afcb-11e8-89e1-46b1b55a07e8.jpg" width="400">
 <img src="https://user-images.githubusercontent.com/1938145/45007265-09a79680-afcb-11e8-9799-668b35808517.jpg" width="400">
 
 <img src="https://i0.wp.com/techpatio.com/wp-content/uploads/2018/02/instagram-logo.jpg" width="25"> &nbsp;&nbsp; [Follow Mochi putting his head on things](https://www.instagram.com/mochiputshisheadonthings/)
