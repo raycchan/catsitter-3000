@@ -19,6 +19,9 @@ Enter Catsitter 3000! You press a button on a webpage when you're away for the w
 
 <img src="https://user-images.githubusercontent.com/1938145/51092460-97f40c00-1765-11e9-9da0-187ae7bf109e.jpg" width="400">
 
+<a href="https://youtu.be/W7FxJTYr2lE">
+  <img src="https://user-images.githubusercontent.com/1938145/51092287-83af0f80-1763-11e9-9bfe-01d34b14c131.png" width="600"> </a>
+  
 #### Software:
 <ul>
   <li>Mochicam powered by a simple Rails app on Heroku</li>
@@ -30,10 +33,6 @@ Enter Catsitter 3000! You press a button on a webpage when you're away for the w
 <img src="https://user-images.githubusercontent.com/1938145/51092136-0a62ed00-1762-11e9-89c0-b69915b3e5b1.png" width="400">
 <img src="https://user-images.githubusercontent.com/1938145/51092137-0a62ed00-1762-11e9-9255-455d11564dd0.png" width="400">
 <img src="https://user-images.githubusercontent.com/1938145/51092513-2072ac80-1766-11e9-9dfb-040f930f2dd2.png" width="400">
-
-#### In Action:
-<a href="https://youtu.be/W7FxJTYr2lE">
-  <img src="https://user-images.githubusercontent.com/1938145/51092287-83af0f80-1763-11e9-9bfe-01d34b14c131.png" width="600"> </a>
   
 #### What's next?
 Multi-can loading!
