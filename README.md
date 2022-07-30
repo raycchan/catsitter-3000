@@ -6,6 +6,23 @@ Enter Catsitter 3000! You press a button remotely to dispense a tasty can of wet
 
 ### Version 7 (current)
 
+The can opener starts when it is plugged in, and so is controlled by the smart plug remotely. Just turn on the power to the Raspberry Pi and monitor using any existing home camera!
+
+#### Hardware:
+<ul>
+  <li>Can Opener - $25</li>
+  <li>Raspberry Pi Pico H - $5</li>
+  <li>High Torque Servo - $6</li>
+  <li>Servo Arm - $3</li>
+  <li>Servo - $3</li>
+  <li>Mini breadboard - $1</li>  
+  <li>Micro USB splitter cable - $3</li>  
+  <li>Micro USB breakout board - $2</li>  
+  <li>Power cable - $10</li> 
+  <li>SD Card - $5</li>
+  <li>Kasa Smart Plug - $6</li>
+  <li><b>Total: $69</b></li>
+</ul>
 
 # Iterations
 
@@ -19,7 +36,7 @@ Wanted to create a version that would not need wifi and photo uploading features
 #### Hardware:
 <ul>
   <li>Can Opener - $25</li>
-  <li>Raspberry Pi Zero W - $30</li>
+  <li>Raspberry Pi Zero W - $10</li>
   <li>Raspberry Pi Case - $5</li>
   <li>240x240 Display - $15</li>
   <li>High Torque Servo - $6</li>
@@ -28,8 +45,9 @@ Wanted to create a version that would not need wifi and photo uploading features
   <li>Mini breadboard - $1</li>  
   <li>Micro USB splitter cable - $3</li>  
   <li>Micro USB breakout board - $2</li>  
-  <li>Power cable - $10</li>  
-  <li><b>Total: $</b></li>
+  <li>Power cable - $10</li>
+  <li>SD Card - $5</li>
+  <li><b>Total: $88</b></li>
 </ul>
 
 ### Version 5
