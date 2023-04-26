@@ -1,6 +1,6 @@
 # Catsitter 3000
 
-I love our cat [Mochi](https://www.instagram.com/mochiputshisheadonthings/), but sometimes when we're gone for the weekend it's annoying to bribe friends to come over and literally just open a can of wet food for the little brat. Anything on the market either [has been in product development for 2 years](https://pawbot.com/), [have to buy exclusive cans and is invite only](https://www.catzenpup.com/), or requires [pre-opened wet food](https://www.amazon.com/TDYNASTY-DESIGN-Automatic-Feeder-Dogs/dp/B01LRMBEN6/) which freaks me out.
+I love our cat [Mochi](https://www.instagram.com/mochiputshisheadonthings/), but sometimes when we're gone for the weekend it's annoying to bribe friends to come over and literally just open a can of wet food for the little brat. Anything on the market either [has been in product development for 9 years](https://pawbot.com/), [have to buy exclusive cans and is invite only](https://www.facebook.com/catzenpup/), or requires [pre-opened wet food](https://www.amazon.com/TDYNASTY-DESIGN-Automatic-Feeder-Dogs/dp/B01LRMBEN6/) which freaks me out.
 
 Enter Catsitter 3000! You press a button remotely to dispense a tasty can of wet food for your favorite feline.
 
@@ -23,6 +23,14 @@ The can opener starts when it is plugged in, and so is controlled by the smart p
   <li>Kasa Smart Plug - $6</li>
   <li><b>Total: $69</b></li>
 </ul>
+
+<img src="https://user-images.githubusercontent.com/1938145/234440200-20e94fe9-60ad-41b4-a202-4dad56cea71e.jpg" width="400">
+
+Horizontally scaled with 2 openers to allow an entire weekend trip away.
+
+<a href="https://youtu.be/UOPUpFlBjzk">
+  <img src="https://user-images.githubusercontent.com/1938145/234441653-bf4a6695-1029-429e-9698-50a58377af66.png" width="600"> </a>
+
 
 # Iterations
 
