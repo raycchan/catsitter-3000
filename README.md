@@ -26,10 +26,15 @@ The can opener starts when it is plugged in, and so is controlled by the smart p
 
 <img src="https://user-images.githubusercontent.com/1938145/234440200-20e94fe9-60ad-41b4-a202-4dad56cea71e.jpg" width="400">
 
+<a href="https://youtu.be/qAUt-IFUuCg">
+  <img src="https://user-images.githubusercontent.com/1938145/234735282-fc90fa4d-ddc3-4da5-a707-fbd3e80f1898.png" width="600">
+</a>
+
 Horizontally scaled with 2 openers to allow an entire weekend trip away.
 
 <a href="https://youtu.be/UOPUpFlBjzk">
-  <img src="https://user-images.githubusercontent.com/1938145/234441653-bf4a6695-1029-429e-9698-50a58377af66.png" width="600"> </a>
+  <img src="https://user-images.githubusercontent.com/1938145/234441653-bf4a6695-1029-429e-9698-50a58377af66.png" width="600">
+</a>
 
 
 # Iterations
